@@ -1,3 +1,4 @@
+<body bgcolor="black">
 <h1 align="center">
   Hi there, I'm 
   <a href="https://github.com/lax-2020com69" target="_blank">Laxman</a>
@@ -100,3 +101,4 @@
 </p>
 
 ---
+</body>
