@@ -44,12 +44,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lax-2020com69&show_icons=true&theme=github_dark" height="180"/>
-  <!--img src="https://github-readme-streak-stats.herokuapp.com?user=lax-2020com6&theme=github-dark-blue" height="180"/-->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lax-2020com6&theme=github-dark-blue" height="180"/>
 
-<!--
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lax-2020com69&show_icons=true&locale=en" alt="lax-2020com69" /></p>
--->
 ---
 
 ## 🏆 GitHub Trophies
