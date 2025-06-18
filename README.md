@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/lax-2020com69">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0F0F0&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=227678&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
